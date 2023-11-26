@@ -1,0 +1,77 @@
+.a123 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px 0px;
+  /* background-color: rgb(240, 242, 245); */
+}
+
+.card12 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 1rem;
+}
+
+.maindiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.maindiv1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.instituteimg {
+  width: 7rem;
+  height: 7rem;
+  border-radius: 50%;
+}
+.innputt1 {
+  width: 20rem;
+  padding: 0.2rem;
+  border-radius: 0.3rem;
+  background-color: #f2eeee;
+}
+.post22 {
+  font-size: 2.4rem;
+  font-weight: bold;
+  text-align: left !important;
+  margin-top: 1rem;
+}
+
+.card13 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1rem;
+}
+.instituteimg2 {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50rem;
+}
+.a1324 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.star12 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 19rem;
+  margin-top: 0.5rem;
+}
+.imgdivlogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

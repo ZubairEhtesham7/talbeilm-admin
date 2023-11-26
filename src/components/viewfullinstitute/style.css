@@ -1,0 +1,11 @@
+.scrolldiv {
+  flex: 1;
+  height: 42vh;
+  overflow-y: scroll;
+  padding: 20px 0px;
+  margin-top: 1rem;
+}
+.liketext {
+  margin-top: 1rem;
+  font-weight: bold;
+}

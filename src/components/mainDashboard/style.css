@@ -1,0 +1,44 @@
+#components-layout-demo-fixed-sider .logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.site-layout .site-layout-background {
+  background: #f5f5f5;
+  border-radius: 1rem;
+}
+.backgroundwhole {
+  background: rgb(17, 158, 239) !important;
+  padding: 2rem;
+}
+.dashtextdiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dashtext {
+  font-family: 2rem;
+  color: white;
+}
+.dashtext1 {
+  font-family: 2rem;
+  color: white;
+  margin-left: 0.5rem;
+}
+.lgoimg {
+  width: 3rem !important;
+  height: 3rem !important;
+  border-radius: 20rem;
+}
+.lgodiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cardsdiv22222 {
+  margin-top: 2rem;
+}
+.cardsdiv3344 {
+  row-gap: 1rem;
+}

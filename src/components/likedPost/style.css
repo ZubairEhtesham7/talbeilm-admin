@@ -1,0 +1,57 @@
+.a12322 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px 0px;
+}
+
+.card1222 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 1rem;
+}
+.instituteimg22 {
+  width: 7rem;
+  height: 7rem;
+  border-radius: 50%;
+}
+.innputt122 {
+  width: 20rem;
+  padding: 0.2rem;
+  border-radius: 0.3rem;
+  background-color: #f2eeee;
+}
+
+.card1322 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1rem;
+}
+.instituteimg222 {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50rem;
+}
+.a132422 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.star1222 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 19rem;
+  margin-top: 0.5rem;
+}
+.imgdivlogo22 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

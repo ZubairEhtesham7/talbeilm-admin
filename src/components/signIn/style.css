@@ -1,0 +1,57 @@
+.main {
+  height: 100vh;
+  width: 100vw;
+  background-color: #229eef;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.sign {
+  color: black;
+  font-weight: 500;
+}
+.box {
+  padding: 3rem;
+  background-color: white;
+  border-radius: 0 50px 50px 0;
+  margin-top: 2rem;
+}
+
+.loginbutton {
+  background-color: #229eef;
+  padding: 0.5rem;
+  color: white;
+  border: solid 1px #229eef;
+  width: 8rem;
+  border-radius: 0.5rem;
+}
+.btndiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.signboxx {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 11rem;
+  height: 11rem;
+  border-radius: 50%;
+  background-color: brown;
+  position: absolute;
+  margin-top: -28rem;
+}
+.tb {
+  font-size: 1.5rem;
+  font-style: italic;
+  color: white;
+}
+@media (max-width: 510px) {
+  .box {
+    padding: 1.5rem;
+    background-color: white;
+    border-radius: 0 50px 50px 0;
+    margin-top: 2rem;
+  }
+}

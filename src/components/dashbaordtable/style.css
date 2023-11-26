@@ -1,0 +1,24 @@
+/* .ant-table-pagination.ant-pagination {
+  display: none !important;
+} */
+.modalimg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.likemodel {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 20rem;
+}
+.likemo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.textmo {
+  margin-left: 0.5rem;
+  margin-top: 0.9rem;
+}

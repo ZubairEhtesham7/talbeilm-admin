@@ -1,0 +1,37 @@
+/* .ant-table-pagination.ant-pagination {
+  display: none !important;
+} */
+.modalimg33 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.likemodel33 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 20rem;
+}
+.likemo33 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.textmo33 {
+  margin-left: 0.5rem;
+  margin-top: 0.9rem;
+}
+.imgpost {
+  width: 9rem;
+  height: 9.5rem;
+}
+.divdiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.detext {
+  text-align: center;
+}
